@@ -1,4 +1,4 @@
-# Ameglian-Major-Cow
+# Fear and Loathing in IT Hell
 Giving back to the community hopefully some of this stuff helps other people out.
 ## [GetAuthenticationPolicyForUser.ps1](https://github.com/fearandloathinginithell/Ameglian-Major-Cow/blob/master/GetAuthenticationPolicyForUser.ps1)
 
